@@ -10,7 +10,7 @@ export const themeConfig = {
     direction: THEME_ENUM.DIR_LTR,
     mode: THEME_ENUM.MODE_DARK,
     // locale: 'en',
-    primaryColorLevel: 600,
+    primaryColorLevel: 700,
     cardBordered: true,
     panelExpand: false,
     controlSize: 'md',
